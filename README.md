@@ -22,4 +22,5 @@ Others
 1. A Machine Learning Approach to Shipping Box Design   https://arxiv.org/pdf/1809.10210.pdf
 2. Adaptive Fraud Detection System Using Dynamic Risk Features   https://arxiv.org/pdf/1810.04654.pdf
 3. Predicting purchasing intent: Automatic Feature Learning using Recurrent Neural Networks  https://arxiv.org/pdf/1807.08207.pdf
+4. A Capsule Network for Recommendation and Explaining What You Like and Dislike  https://arxiv.org/pdf/1907.00687.pdf
 
