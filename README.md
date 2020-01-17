@@ -4,6 +4,8 @@ Search
 1. Generic Intent Representation in Web Search  https://arxiv.org/pdf/1907.10710.pdf
 2. Learning Image Information for eCommerce Qeries  https://arxiv.org/pdf/1904.12856.pdf
 3. Personalized Ranking in eCommerce Search  https://arxiv.org/pdf/1905.00052.pdf
+5. The Design and Implementation of a Real Time Visual Search System on JD E-commerce Platform https://arxiv.org/abs/1908.07389
+6. Influence of Neighborhood on the Preference of an Item in eCommerce Search https://arxiv.org/abs/1908.03825
 
 
 Recommendations
@@ -13,6 +15,7 @@ Rank
 1. Exploring the Effect of an Item’s Neighborhood on its Sellability in eCommerce  https://arxiv.org/pdf/1908.03825.pdf
 2. Ranking sentences from product description & bullets for better search  https://arxiv.org/pdf/1907.06330.pdf
 3. Personalized Qery Auto-Completion Through a Lightweight Representation of the User Context https://arxiv.org/pdf/1905.01386.pdf
+4. Ranking sentences from product description & bullets for better search  https://arxiv.org/pdf/1907.06330.pdf
 
 Advertis
 1. Online Evaluation of Audiences for Targeted Advertising via Bandit Experiments  https://arxiv.org/pdf/1907.02178.pdf
